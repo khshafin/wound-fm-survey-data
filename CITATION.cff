@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite the manuscript below."
+title: "Wound Imaging Foundation-Model Survey: Gap Map and Failure Mode Catalog"
+version: "1.0"
+date-released: "2026-07-28"
+license: CC-BY-4.0
+authors:
+  - family-names: Farhan
+    given-names: Kh Shafin
+    affiliation: "University at Buffalo, State University of New York"
+  - family-names: Zhang
+    given-names: Xiaoyu
+    affiliation: "University at Buffalo, State University of New York"
+preferred-citation:
+  type: article
+  title: "Foundation Models in Wound Imaging: A Pipeline-Wide Maturity Assessment"
+  journal: "IEEE Reviews in Biomedical Engineering"
+  year: 2026
+  authors:
+    - family-names: Farhan
+      given-names: Kh Shafin
+    - family-names: Zhang
+      given-names: Xiaoyu
