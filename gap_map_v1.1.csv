@@ -1,0 +1,8 @@
+step,fm_track_papers,non_fm_papers,maturity_level,external_validations,step_total_studies,fairness_audits,flagship_paper,flagship_citekey,evidence_vector_tags
+Acquisition,0,5,L0,0,5,0,none,,
+Preprocessing/QC,0,4,L0,2,4,0,none,,
+Model Selection,6,48,L2,2,57,0,"Apichonbancha et al., 2026",Apichonbancha2026performance,Inter-rater partial: three-expert consensus reference standard
+Adaptation Strategy,20,2,L3,3,22,0,"Zhao et al., 2026",Zhao2026vision,Inter-rater no: lay-user and non-specialist-surgeon baselines
+Output Formulation,13,3,L2,2,19,0,"Lott et al., 2026",Lott2026selective,Inter-rater no; fairness no
+Validation,4,12,L3,4,18,3,"Baseman et al., 2025",Baseman2025towards,"Fairness partial: cohort composition, no stratified analysis"
+Deployment,1,5,L1,1,8,0,"Barua et al., 2026",Barua2026edge,None reported
